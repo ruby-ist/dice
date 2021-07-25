@@ -1,0 +1,41 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #9ACEFF;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Merienda', cursive;
+  text-shadow: 4px 4px 2px #4A69BB;
+  font-size: 5rem;
+  color: #617BE3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4A69BB;
+  font-family: 'VT323', monospace;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #4A69BB;
+  text-align: center;
+  font-family: 'VT323', monospace;
+
+}
